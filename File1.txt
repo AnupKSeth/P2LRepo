@@ -4,6 +4,6 @@ This is File1. Welcome to Git !!!!!!!
 class MyClass{
 
 		public static void main(String args[]){
-			syso("Hello GIT" ...!!!);
+			system.out.println("Hello GIT" ...!!!);
 		}
 }
